@@ -1,32 +1,33 @@
 # 🛒 E-Commerce Smart Contract (Soroban)
 
-Smart contract sederhana berbasis Stellar Soroban untuk mengelola sistem e-commerce seperti produk dan transaksi pembelian.
+A simple e-commerce smart contract built using Stellar Soroban. This contract allows users to manage products and perform purchase transactions on-chain.
 
 ---
 
-## 📌 Deskripsi
+## 📌 Description
 
-Project ini merupakan implementasi smart contract e-commerce menggunakan Soroban (Stellar). Contract ini memungkinkan pengguna untuk:
+This project demonstrates a basic implementation of an e-commerce system using Soroban smart contracts on the Stellar network.
 
-- Menambahkan produk
-- Melihat daftar produk
-- Melakukan pembelian
-- Menyimpan data order
+It provides core functionalities such as:
+- Product management
+- Purchase transactions
+- On-chain data storage
 
-Contract ini masih dalam bentuk sederhana dan digunakan untuk pembelajaran serta pengembangan awal aplikasi berbasis blockchain.
-
----
-
-## ✨ Fitur
-
-- 📦 Product Management
-- 🛍 Order / Checkout System
-- 🔐 Wallet Authentication
-- 📊 Storage berbasis blockchain
+This project is intended for learning and early-stage blockchain development.
 
 ---
 
-## 🧱 Struktur Data
+## ✨ Features
+
+- 📦 Add and manage products
+- 📄 View product list
+- 🛍 Purchase products
+- 📦 Store order history
+- 🔐 Wallet-based authentication
+
+---
+
+## 🧱 Data Structures
 
 ### Product
 
